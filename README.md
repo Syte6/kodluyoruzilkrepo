@@ -9,9 +9,9 @@ Bu repo [Kodluyoruz](kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk 
 
 Öncelikle projeyi clonelayın.
 
-´bash
+´´´bash
 git clone https://github.com/Syte6/kodluyoruzilkrepo.git
-´
+´´´
 
 ## Usage
 
